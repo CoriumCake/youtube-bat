@@ -34,7 +34,7 @@ function home {
     CHOICE /n /c:12345
 
     Switch ($LASTEXITCODE) {
-        1 {webm}
+        1 { webm }
         2 { mp4 }
         3 { mp3 }
         4 { changedir }
