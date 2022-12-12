@@ -9,5 +9,5 @@
   
 ![2](https://user-images.githubusercontent.com/45147371/207048856-8346f933-d403-4603-b2b8-74ab87bb89b2.png)
 
-#### Use main.bat to execute program!
+#### Use *main.bat* to execute program!
 ![3](https://user-images.githubusercontent.com/45147371/207048860-97c7c1e0-4748-4d36-a5b7-762fdf5b68f4.png)
