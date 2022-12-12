@@ -1,6 +1,4 @@
-# youtube-bat
-very lightweight youtube download assistance that runs in batch!!
-
+###How to Use
 
 #### First Create Folder
 ![1](https://user-images.githubusercontent.com/45147371/207048847-0911a933-7671-4452-9872-51476e174226.png)
