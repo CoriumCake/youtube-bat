@@ -35,6 +35,7 @@ if(Test-Path -Path ytdlp){
 }
 
 Set-Location ..
+Set-Content yt-bat.bat "powershell.exe -ExecutionPolicy Bypass -File assets\scripts\ytb.ps1"
 $ProgressPreference = 'SilentlyContinue'
 Invoke-WebRequest "https://github.com/CoriumCake/youtube-bat/blob/main/yt-bat.exe?raw=true" -OutFile yt-bat.exe
 
